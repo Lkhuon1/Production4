@@ -1,4 +1,7 @@
 /* Style for the Table of Planets */
+h1 {
+	text-align: center;
+}
 table {
   border-collapse: collapse;
 }
@@ -6,7 +9,7 @@ table th {
   text-align: left;
   background-color: #3a6070;
   color:#FFF;
-  padding:4px 30px 4px 8px;
+  padding:10px 79px 10px 8px;
 }
 table td{
   border: 1px Solid #e3e3e3;
